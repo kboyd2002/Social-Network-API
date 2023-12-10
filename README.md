@@ -1,5 +1,12 @@
 # Social Media API
 
+## Walk-Through Video
+
+
+https://github.com/kboyd2002/Social-Network-API/assets/145223393/d50c7ef5-bb48-440e-85c7-f75569c8e0ff
+
+
+
 ## Description
 An API that is designed to manage users and their associated data within a social network platform. It provides functionality for creating, retrieving, updating, and deleting user information, as well as managing relationships between users. The API also supports the creation and retrieval of thoughts or posts associated with users.
 
